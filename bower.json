@@ -1,0 +1,13 @@
+{
+  "name": "iso.dev",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Abdel Nalbou <dobermann@dogstudio.be>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "canonical.css": "~1.1.1"
+  }
+}
